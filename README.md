@@ -16,7 +16,7 @@ python code/preprocess.py --input crows_pairs --output ../data/paralled_cp.json
 python code/preprocess.py --input stereoset --output ../data/paralled_ss.json
 ```
 ## Prepare Models
-You need to download the model weights from Hugging Face to the models folder.
+You need to download the model weights from [Hugging Face](https://huggingface.co/) to the `models` folder.
 
 ## Data Sampling
 To perform random sampling of the data, you can use the following script:
